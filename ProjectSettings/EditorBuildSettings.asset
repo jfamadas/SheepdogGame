@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 280964e8fddecd14fa5adf823a1c8efa
+  - enabled: 1
+    path: Assets/Scenes/dog_mode.unity
+    guid: e7df9c03297388343a2de2cbddb01cc4
+  - enabled: 1
+    path: Assets/Scenes/shepherd_mode.unity
+    guid: 5c239aa1754328e4fbcf5b2ce3c9c8af
+  - enabled: 1
+    path: Assets/Scenes/final_scene.unity
+    guid: 73aeb0ca9fb3d5d4eb6de7bf57132363
+  m_configObjects: {}
